@@ -18,7 +18,7 @@ A small React + TypeScript app to search GitHub repositories using the GitHub RE
 
 ```bash
 npm install
-npm run dev
+npm start
 ```
 
 Open the local URL shown in the terminal to view the app.
